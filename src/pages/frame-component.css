@@ -1,0 +1,299 @@
+.istock-1329831677-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 590px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  background: linear-gradient(
+    -2.32deg,
+    rgba(0, 0, 0, 0.65),
+    rgba(10, 29, 61, 0) 60.94%
+  );
+  width: 1277.83px;
+  height: 590px;
+}
+.istock-1329831677-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 590px;
+}
+.building-icon {
+  position: absolute;
+  width: calc(100% - 39px);
+  top: 0;
+  right: 19px;
+  left: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60px;
+}
+.real-estate {
+  position: absolute;
+  top: 84px;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.building-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 99px;
+  height: 103px;
+}
+.bridge-svgrepo-com-1-icon {
+  position: absolute;
+  width: calc(100% - 78px);
+  top: 0;
+  right: 39px;
+  left: 39px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60px;
+}
+.infra-and-roads-parent {
+  position: absolute;
+  top: 0;
+  left: 161px;
+  width: 138px;
+  height: 103px;
+}
+.track-icon {
+  position: absolute;
+  width: calc(100% - 62px);
+  top: 0;
+  right: 31px;
+  left: 31px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60px;
+}
+.frame-child2,
+.transporters-parent {
+  position: absolute;
+  top: 0;
+  left: 353px;
+  width: 122px;
+  height: 103px;
+}
+.frame-child2 {
+  height: 58.25%;
+  width: 68.97%;
+  right: 14.94%;
+  bottom: 41.75%;
+  left: 16.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.suppliers {
+  position: absolute;
+  width: 100%;
+  top: 84px;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.frame-child3,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 529px;
+  width: 87px;
+  height: 103px;
+}
+.frame-child3 {
+  height: 58.25%;
+  width: 77.92%;
+  right: 10.39%;
+  bottom: 41.75%;
+  left: 11.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child4,
+.industry-parent {
+  position: absolute;
+  top: 0;
+  left: 835px;
+  width: 77px;
+  height: 103px;
+}
+.frame-child4 {
+  height: 58.25%;
+  width: 54.05%;
+  right: 22.52%;
+  bottom: 41.75%;
+  left: 23.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.consultants-parent {
+  position: absolute;
+  top: 1px;
+  left: 670px;
+  width: 111px;
+  height: 103px;
+}
+.frame-child5,
+.frame-group {
+  position: absolute;
+  top: 456px;
+  left: 184px;
+  width: 912px;
+  height: 104px;
+}
+.frame-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    180deg,
+    rgba(70, 177, 157, 0.5),
+    rgba(71, 179, 156, 0.5)
+  );
+  width: 107px;
+  height: 39px;
+}
+.log-in,
+.mdiaccount-icon {
+  position: absolute;
+  top: 10px;
+}
+.log-in {
+  left: 39px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.mdiaccount-icon {
+  left: 17px;
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 41px;
+  left: 1072px;
+  width: 107px;
+  height: 39px;
+}
+.search-engines-of {
+  position: absolute;
+  top: 0;
+  left: 51px;
+  font-size: 30px;
+  text-shadow: 0 5px 5px rgba(0, 0, 0, 0.25);
+}
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 650px;
+  height: 62px;
+}
+.search-anything-anywhere {
+  position: absolute;
+  top: 23px;
+  left: 37px;
+  font-weight: 500;
+}
+.frame-child7,
+.rectangle-group {
+  position: absolute;
+  top: 4px;
+  left: 590px;
+  width: 55px;
+  height: 55px;
+}
+.rectangle-group {
+  top: 57px;
+  left: 0;
+  width: 650px;
+  height: 62px;
+  color: #989898;
+}
+.company-name,
+.search-by {
+  position: absolute;
+  font-weight: 600;
+}
+.search-by {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  text-align: center;
+}
+.company-name {
+  top: -6.25%;
+  left: 17.21%;
+}
+.component-6-child {
+  position: absolute;
+  height: 100%;
+  width: 13.11%;
+  top: 0;
+  right: 86.89%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-6,
+.component-7,
+.component-8 {
+  position: absolute;
+  width: calc(100% - 453px);
+  top: 0;
+  right: 359px;
+  left: 94px;
+  height: 16px;
+}
+.component-7,
+.component-8 {
+  right: 0;
+  left: 453px;
+}
+.component-7 {
+  right: 210px;
+  left: 243px;
+}
+.search-by-parent {
+  position: absolute;
+  top: 141px;
+  left: 50px;
+  width: 575px;
+  height: 16px;
+}
+.search-engines-of-construction-parent {
+  position: absolute;
+  top: 217px;
+  left: 316px;
+  width: 650px;
+  height: 157px;
+}
+.frame-root {
+  position: relative;
+  margin-left: 100px;
+  width: 100%;
+  height: 590px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,51 @@
+.search-analytics {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  font-weight: 500;
+}
+.lorem-ipsum-dolor7 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container7 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  color: var(--color-gray-100);
+  text-align: center;
+  display: inline-block;
+  width: 228px;
+  height: 92px;
+}
+.frame-child12,
+.search-analytics-parent {
+  position: absolute;
+  top: 138.57px;
+  left: 0;
+  width: 228px;
+  height: 135px;
+}
+.frame-child12 {
+  height: 36.55%;
+  width: 43.86%;
+  top: 0;
+  right: 28.07%;
+  bottom: 63.45%;
+  left: 28.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 0;
+  left: 792px;
+  width: 228px;
+  height: 273.57px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
